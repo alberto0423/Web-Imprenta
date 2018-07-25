@@ -1,0 +1,9 @@
+h1 {
+  font-size: 80px;
+  color: rgb(80, 170, 203);
+  font-style: italic;
+  margin:auto;
+  border-radius: 2px, 3px,2px,3px;
+  border-style: groove;
+  border-color: #FFF960;
+}
