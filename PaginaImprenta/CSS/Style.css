@@ -1,3 +1,8 @@
+body{
+  margin: 0px;
+  padding-top: 5px;
+}
+
 h1 {
   font-size: 80px;
   color: rgb(80, 170, 203);
@@ -6,4 +11,27 @@ h1 {
   border-radius: 2px, 3px,2px,3px;
   border-style: groove;
   border-color: #FFF960;
+}
+
+nav{
+  background-color: #5de815;
+  border: 1px dashed;
+  padding: 1%;
+}
+ ul{
+  list-style: none;
+  float: left;
+  border: 1px dashed;
+  padding: 1%;
+  width: 95%;
+}
+li{
+  font-size: 20px;
+  font-style: oblique;
+  font-family: fantasy;
+  float: left;
+  list-style: none;
+  padding: 3
+  border-radius:15%;
+
 }
