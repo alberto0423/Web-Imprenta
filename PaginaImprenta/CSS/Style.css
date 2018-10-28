@@ -3,14 +3,18 @@ body{
   padding-top: 5px;
 }
 
+header{
+  background-image: url(../Recursos/ing-2.jpg);
+  width: 95%;
+  padding: 6%;
+}
+
 h1 {
   font-size: 80px;
   color: rgb(80, 170, 203);
   font-style: italic;
   margin:auto;
-  border-radius: 2px, 3px,2px,3px;
-  border-style: groove;
-  border-color: #FFF960;
+
 }
 
 nav{
@@ -21,8 +25,6 @@ nav{
  ul{
   list-style: none;
   float: left;
-  border: 1px dashed;
-  padding: 1%;
   width: 95%;
 }
 li{
@@ -31,7 +33,20 @@ li{
   font-family: fantasy;
   float: left;
   list-style: none;
-  padding: 3
-  border-radius:15%;
+  padding: 3%;
+  color: #FFFFFF;
+  border-style:ridge;
+  padding: 0.5%;
 
+}
+a{
+
+}
+
+footer{
+  background-color: #000000;
+  border: 5px dashed;
+  color: #FFFFFF;
+  padding-bottom: 10px;
+  font-size-adjust: auto;
 }
